@@ -1,8 +1,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import SpecSection from './SpecSection'
-import Details from './Details'
-import CommentSection from './CommentSection'
+import SpecSection from './specs-section/SpecSection'
+import Details from './description-section/Description'
+import CommentSection from './comment-section/CommentSection'
 
 
 var ProductDetails = React.createClass({

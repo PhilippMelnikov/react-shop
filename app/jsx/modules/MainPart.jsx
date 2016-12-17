@@ -1,7 +1,7 @@
 import React from 'react'
-import SideBar from './SideBar'
-import ItemList from './ItemList'
-import {products} from './products'
+import SideBar from './sidebar/SideBar'
+import ItemList from './item-list/ItemList'
+import {products} from './data/products'
 
 var MainPart = React.createClass({
   getInitialState: function() {
