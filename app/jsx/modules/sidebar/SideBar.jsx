@@ -1,5 +1,5 @@
 import React from 'react'
-import Categories from './Categories'
+import Categories from '../categories/Categories'
 
 var SideBar = React.createClass({
 

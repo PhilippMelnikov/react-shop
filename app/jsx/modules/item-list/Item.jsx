@@ -1,5 +1,5 @@
 import React from 'react'
-import ReactCSSTransitionGroupAppear from './ReactCSSTransitionGroupAppear'
+import ReactCSSTransitionGroupAppear from '../animation/ReactCSSTransitionGroupAppear'
 
 var Item = React.createClass({
   propTypes: {
